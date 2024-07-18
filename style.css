@@ -1,0 +1,13 @@
+div label{
+    width: 300px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+div input {
+    width: 100%;
+}
+
+div textarea {
+    width: 100%;
+}
